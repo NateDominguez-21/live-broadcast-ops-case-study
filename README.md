@@ -38,6 +38,21 @@ For the past 2+ years, I have worked as a **Technical Operator** supporting mult
 - Signal flow awareness (camera → encoder → stream → platform)  
 - Clear communication and coordination with remote teams  
 
----
 
-🚀 This project documents the practical, real-world challenges and discipline of maintaining smooth live broadcast operations.
+## Sample Technical Log – Stream Interruption (Resolved)
+
+**Date:** March 2024  
+**Stream Type:** Broadcast to TV Platform  
+**Issue:** TV station stopped receiving feed  
+**Detected By:** Master Control operator
+
+**Resolution:**
+- Accessed the Evertz encoder UI remotely  
+- Identified that the encoder had stopped streaming unexpectedly  
+- Restarted the encoder  
+- Confirmed with NOC operator that the stream was restored  
+- Video resumed within 3–5 minutes of interruption
+
+**Post-Event Notes:**
+- Updated encoder firmware  
+- Flagged encoder for close monitoring during next week’s live stream to ensure stability
