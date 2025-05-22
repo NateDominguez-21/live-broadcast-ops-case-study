@@ -1,4 +1,4 @@
-# 🎥 Live Broadcast Operations – Technical Case Study
+# Live Broadcast Operations – Technical Case Study
 
 ## Overview
 
