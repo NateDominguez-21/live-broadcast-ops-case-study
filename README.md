@@ -1,7 +1,7 @@
 ### Live Broadcast Operations – Technical Case Study
 
 Overview
-During the past 2+ years, I've worked as a Technical Operator supporting a number of weekly live-streamed productions. My role was focused on backend activities: starting and watching live streams, coordinating stream schedules, ensuring signal quality, and troubleshooting technical problems in real-time.
+During the past 2+ years, I've worked as a Technical Operator supporting a number of weekly live-streamed productions. My role was focused on backend activities: starting and monitoring live streams, coordinating stream schedules, ensuring signal quality, and troubleshooting technical problems in real-time.
 
 
 ### Tools & Technologies
