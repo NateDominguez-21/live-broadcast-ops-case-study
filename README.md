@@ -37,36 +37,49 @@ During the past 2+ years, I've worked as a Technical Operator supporting a numbe
 
 
 ### Sample Day-to-Day Duties
-Deploy live streams and verify audio/video signal presence
-Track encoder behavior and stream health for long periods of time
-Stream failure analysis using internal dashboards and remote software
-Report downstream team issues and record all technical problems
+Set up and monitored live streams, making sure audio and video signals were
+working properly. Continuously tracked encoder performance and stream quality 
+using internal dashboards and remote tools, and troubleshot issues as they came up.
 
 ### Skills Demonstrated
-Real-time operation in high-risk environments
-Multi-platform issue resolution (macOS, Linux, Windows)
-Broadcast chain infrastructure knowledge (input to stream output)
-Awareness of signal flow (camera → encoder → stream → platform)
-Clean coordination and communication with remote teams
+* Real-time operation in high-risk environments
+
+* Multi-platform issue resolution (macOS, Linux, Windows)
+
+* roadcast chain infrastructure knowledge (input to stream output)
+
+* Clean coordination and communication with remote teams
+
+### Example of signal flow
+
+  (camera → encoder → stream → platform) ((simplified))
+
 
 
 ### Sample Technical Log – Stream Interruption (Resolved)
+```bash
 
 Date: March 2024
 
 Stream Type: Broadcast to TV Platform
 
-Problem: TV station cut off feed
+Problem: TV station feed went out
 
 Noted By: Master Control operator
 
 Solution:
-Logged in to Evertz encoder UI remotely
-Understood that the encoder had abruptly stopped streaming
-Restarted the encoder
-Verified with NOC operator that the stream was restored
-Video resumed within 3–5 minutes of interruption
-Post-Event Notes:
+Logged in to Evertz encoder software, 
 
+found that the encoder had abruptly stopped streaming
+
+Restarted the encoder
+
+Verified with NOC operator that the stream was restored
+
+Video resumed within 3–5 minutes of interruption
+
+
+Post-Event Notes:
 Updated encoder firmware
 Marker encoder to keep a close eye on stability for live stream next week
+```
