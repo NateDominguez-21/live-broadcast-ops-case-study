@@ -27,7 +27,7 @@ During the past 2+ years, I've worked as a Technical Operator supporting a numbe
 
 * Guaranteed uptime and signal stability for multiple simultaneous streams
 
-* Monitored live feeds for technical anomalies (audio/video dropouts, sync issues)
+* Monitored live feeds for technical issues (audio/video dropouts, sync issues)
 
 * Managed between teams for live troubleshooting and resolving problems
 
